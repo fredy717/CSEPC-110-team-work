@@ -5,4 +5,3 @@ def favoriteColor():
     return 'Hi! \nYou are %s %s and your favorite color is: "%s".' % (name.capitalize(), lastName.capitalize(),color)
 
 print(favoriteColor())
-print ('Esto es un aprueba de sincronizacion.')
